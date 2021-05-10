@@ -57,13 +57,8 @@ export type ITranslationKeys =
   | "character-dialog.template.IronEddaAccelerated"
   | "character-dialog.template.Maze"
   | "character-dialog.template.TheWitchIsDead"
-<<<<<<< HEAD
   | "character-dialog.template.EdgeOfTheEmpire"
   | "character-dialog.template.EdgeOfTheEmpire_FR"
-||||||| 7ae1b5b
-  | "character-dialog.template.EdgeOfTheEmpire"
-=======
->>>>>>> origin/master
   | "character-dialog.template.VentureCity"
   | "common.language.de"
   | "common.language.dev"

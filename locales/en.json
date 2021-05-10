@@ -47,8 +47,6 @@
   "character-dialog.template.Blank": "Blank",
   "character-dialog.template.Dnd5e": "Dnd 5e",
   "character-dialog.template.DresdenFilesAccelerated": "Dresden Files Accelerated",
-  "character-dialog.template.EdgeOfTheEmpire": "Edge of the Empire",
-  "character-dialog.template.EdgeOfTheEmpire_FR": "Edge of the Empire (FR)",
   "character-dialog.template.FateAccelerated": "Fate Accelerated",
   "character-dialog.template.FateCondensed": "Fate Condensed",
   "character-dialog.template.FateCore": "Fate Core",
@@ -57,13 +55,8 @@
   "character-dialog.template.IronEddaAccelerated": "Iron Edda Accelerated",
   "character-dialog.template.Maze": "Maze",
   "character-dialog.template.TheWitchIsDead": "The Witch Is Dead",
-<<<<<<< HEAD
   "character-dialog.template.EdgeOfTheEmpire": "Edge of the Empire",
   "character-dialog.template.EdgeOfTheEmpire_FR": "Edge of the Empire_FR",
-||||||| 7ae1b5b
-  "character-dialog.template.EdgeOfTheEmpire": "Edge of the Empire",
-=======
->>>>>>> origin/master
   "character-dialog.template.VentureCity": "Venture City",
   "common.language.de": "German",
   "common.language.dev": "Development",
